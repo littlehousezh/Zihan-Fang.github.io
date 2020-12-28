@@ -1,2 +1,2 @@
-# Zihan-Fang.github.io
-Blog
+# Probability & Inference
+
