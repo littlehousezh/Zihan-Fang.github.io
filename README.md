@@ -1,6 +1,6 @@
 # Probability & Inference
 
-## [Roulette Simulation](https://github.com/littlehousezh/blog_probability/blob/master/01-roulette-simulation.html)
+## [Roulette Simulation](https://littlehousezh.github.io/blog_probability/01-roulette-simulation.html)
 ## [Monte Carlo Error](https://github.com/littlehousezh/blog_probability/blob/master/02-monte-carlo-error.html)
 ## [Discrete-Probability-Calculations](https://github.com/littlehousezh/blog_probability/blob/master/03-discrete-probability-calculations.html)
 ## [Home-Field-Advantage](https://github.com/littlehousezh/blog_probability/blob/master/04-home-field-advantage.html)
